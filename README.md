@@ -18,6 +18,36 @@ NetPazar, Django ve React kullanılarak geliştirilmiş modern bir e-ticaret pla
 **Frontend:** React, Redux Toolkit, Tailwind CSS  
 **Backend:** Django, Django REST Framework, PostgreSQL
 
+## 📷 Ekran Görüntüleri
+
+### 🛍️ Ürün Listesi
+![Ürünler](images/Ürünler.JPG)
+
+### 🔲 Beyaz Ekran
+![Beyaz Ekran](images/Beyaz_ekran.JPG)
+
+### ❤️ Favoriler
+![Favoriler](images/Favoriler.JPG)
+
+### 📄 Ürün Sayfası ve Yorumlar
+![Ürün ve Yorumlar](images/Ürün_sayfası_ve_yorumlar.JPG)
+
+### 💳 Ödeme Ekranı
+![Ödeme](images/Ödeme_ekranı.JPG)
+
+### 📦 Kargo Takibi
+![Kargo Takibi](images/Kargo_ekranı.JPG)
+
+### 🔐 Giriş Ekranı
+![Giriş](images/Giriş_ekranı.JPG)
+
+### 📝 Kayıt Ekranı
+![Kayıt](images/Kayıt_ekranı.JPG)
+
+### 🛠️ Admin Paneli
+![Admin Paneli](images/Admin_ekranı.JPG)
+
+
 ## 🔧 Kurulum
 
 ### Backend:
