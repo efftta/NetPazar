@@ -1,6 +1,6 @@
 # NetPazar
 
-NetPazar, Django ve React kullanılarak geliştirilmiş modern bir e-ticaret platformudur. Kullanıcıların ürünleri görüntüleyip satın alabildiği, satıcıların ise ürün ve sipariş yönetimi yapabildiği bir sistem sunar.
+NetPazar, Django ve React kullanılarak geliştirilmiş modern bir e-ticaret platformudur. Kullanıcılar ürünleri inceleyebilir, sepete ekleyip satın alabilir; satıcılar ise ürün ve siparişleri yönetebilir.
 
 ## 🚀 Özellikler
 
@@ -20,32 +20,29 @@ NetPazar, Django ve React kullanılarak geliştirilmiş modern bir e-ticaret pla
 
 ## 📷 Ekran Görüntüleri
 
-### 🛍️ Product List
-![Products](images/urunler.jpg)
+## Admin Paneli
+![Admin Panel](images/admin.jpg)
 
-### 🧊 White Screen (Placeholder)
-![White Screen](images/white_screen.jpg)
+## Favoriler Sayfası
+![Favoriler](images/favorites.jpg)
 
-### ❤️ Favorites
-![Favorites](images/favorites.jpg)
+## Giriş Sayfası
+![Giriş](images/login.jpg)
 
-### 💬 Product and Comments
-![Product and Comments](images/product_and_comments.jpg)
+## Kayıt Sayfası
+![Kayıt](images/register.jpg)
 
-### 💳 Payment Page
-![Payment](images/payment.jpg)
+## Sepet Sayfası
+![Sepet](images/cart.jpg)
 
-### 📦 Shipping/Tracking
-![Shipping](images/shipping.jpg)
+## Ürün Detay Sayfası
+![Ürün Detay](images/details.jpg)
 
-### 🔐 Login
-![Login](images/login.jpg)
+## Ödeme Sayfası
+![Ödeme](images/payment.jpg)
 
-### 📝 Register
-![Register](images/register.jpg)
-
-### 🛠️ Admin Panel
-![Admin](images/admin.jpg)
+## Kargo Takip Sayfası
+![Kargo](images/shipping.jpg)
 
 
 ## 🔧 Kurulum
