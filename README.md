@@ -32,8 +32,11 @@ NetPazar, Django ve React kullanılarak geliştirilmiş modern bir e-ticaret pla
 ## Kayıt Sayfası
 ![Kayıt](images/register.jpg)
 
-## Sepet Sayfası
-![Sepet](images/cart.jpg)
+## Ürünler Sayfası
+![Sepet](images/urunler.jpg)
+
+## Beyaz Tema
+![Beyaz Tema](images/white_screen.jpg)
 
 ## Ürün Detay Sayfası
 ![Ürün Detay](images/details.jpg)
