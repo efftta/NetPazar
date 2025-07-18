@@ -20,32 +20,32 @@ NetPazar, Django ve React kullanılarak geliştirilmiş modern bir e-ticaret pla
 
 ## 📷 Ekran Görüntüleri
 
-### 🛍️ Ürün Listesi
-![Ürünler](images/Ürünler.JPG)
+### 🛍️ Product List
+![Products](images/urunler.jpg)
 
-### 🔲 Beyaz Ekran
-![Beyaz Ekran](images/Beyaz_ekran.JPG)
+### 🧊 White Screen (Placeholder)
+![White Screen](images/white_screen.jpg)
 
-### ❤️ Favoriler
-![Favoriler](images/Favoriler.JPG)
+### ❤️ Favorites
+![Favorites](images/favorites.jpg)
 
-### 📄 Ürün Sayfası ve Yorumlar
-![Ürün ve Yorumlar](images/Ürün_sayfası_ve_yorumlar.JPG)
+### 💬 Product and Comments
+![Product and Comments](images/product_and_comments.jpg)
 
-### 💳 Ödeme Ekranı
-![Ödeme](images/Ödeme_ekranı.JPG)
+### 💳 Payment Page
+![Payment](images/payment.jpg)
 
-### 📦 Kargo Takibi
-![Kargo Takibi](images/Kargo_ekranı.JPG)
+### 📦 Shipping/Tracking
+![Shipping](images/shipping.jpg)
 
-### 🔐 Giriş Ekranı
-![Giriş](images/Giriş_ekranı.JPG)
+### 🔐 Login
+![Login](images/login.jpg)
 
-### 📝 Kayıt Ekranı
-![Kayıt](images/Kayıt_ekranı.JPG)
+### 📝 Register
+![Register](images/register.jpg)
 
-### 🛠️ Admin Paneli
-![Admin Paneli](images/Admin_ekranı.JPG)
+### 🛠️ Admin Panel
+![Admin](images/admin.jpg)
 
 
 ## 🔧 Kurulum
@@ -65,4 +65,4 @@ npm install
 npm run dev
 
 Geliştirici
-Efe Taha Koçaş
+efftta
